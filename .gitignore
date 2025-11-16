@@ -1,0 +1,3 @@
+# Skipping large data files
+/Week3_Cancer_Detection_Kaggle/train
+/Week3_Cancer_Detection_Kaggle/test
