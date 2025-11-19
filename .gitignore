@@ -1,3 +1,9 @@
 # Skipping large data files
 /Week3_Cancer_Detection_Kaggle/train
 /Week3_Cancer_Detection_Kaggle/test
+
+# Skipping model
+Week3_Cancer_Detection_Kaggle/best_model.keras
+
+# Checkpoints
+.ipynb_checkpoints
