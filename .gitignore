@@ -7,3 +7,5 @@ Week3_Cancer_Detection_Kaggle/best_model.keras
 
 # Checkpoints
 .ipynb_checkpoints
+
+.DS_Store
