@@ -1,6 +1,7 @@
 # Skipping large data files
 /Week3_Cancer_Detection_Kaggle/train
 /Week3_Cancer_Detection_Kaggle/test
+/Week5_GANs/data
 
 # Skipping model
 Week3_Cancer_Detection_Kaggle/best_model.keras
