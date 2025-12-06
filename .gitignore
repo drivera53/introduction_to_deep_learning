@@ -2,6 +2,7 @@
 /Week3_Cancer_Detection_Kaggle/train
 /Week3_Cancer_Detection_Kaggle/test
 /Week5_GANs/data
+Week5_GANs/generated_images
 
 # Skipping model
 Week3_Cancer_Detection_Kaggle/best_model.keras
